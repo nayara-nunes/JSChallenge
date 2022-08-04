@@ -7,3 +7,5 @@
   - Fazer 20 exercícios de JS por dia. Do básico ao avançado.
 
   
+  # Dia 2
+   
