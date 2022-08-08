@@ -1,4 +1,4 @@
-# 📒・ JavaScript: Anotações & Exercícios pessoais.
+# 📒 JavaScript: Anotações & Exercícios pessoais.
 
 
 ## 🚀 Objetivo:
