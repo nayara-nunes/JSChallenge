@@ -1,0 +1,1 @@
+/*12. Escreva um loop que exiba os números primos de 1 a 100. */

@@ -1,0 +1,1 @@
+/*9. Escreva um loop que exiba os números de 1 a 100, substituindo os múltiplos de 3 por "Fizz" e os múltiplos de 5 por "Buzz". */

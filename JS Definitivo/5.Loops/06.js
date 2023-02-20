@@ -1,0 +1,1 @@
+/*6. Escreva um loop que calcule o fatorial de um número dado. */
