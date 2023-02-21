@@ -1,0 +1,1 @@
+/*16. Escreva um loop que calcule a média de um array de números. */

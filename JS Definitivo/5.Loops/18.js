@@ -1,0 +1,1 @@
+/*18. Escreva um loop que encontre o primeiro elemento de um array de números que seja maior que 10. */
