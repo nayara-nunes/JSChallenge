@@ -1,0 +1,1 @@
+/*9. Escreva uma função que receba um array como parâmetro e retorne a soma dos elementos do array. */

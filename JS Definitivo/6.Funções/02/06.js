@@ -1,0 +1,1 @@
+/**6. Escreva uma função que receba um número como parâmetro e retorne uma string com o número por extenso. Exemplo: 1 -> "um", 2 -> "dois", etc. */

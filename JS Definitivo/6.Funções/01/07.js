@@ -1,0 +1,1 @@
+/*7. Escreva uma função que receba um array como parâmetro e retorne o primeiro elemento do array. */

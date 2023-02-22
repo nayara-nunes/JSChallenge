@@ -1,0 +1,1 @@
+//2. Escreva uma função que receba um array de números como parâmetro e retorne o maior número do array.

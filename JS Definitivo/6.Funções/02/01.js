@@ -1,0 +1,1 @@
+//1. Escreva uma função que receba um array de números como parâmetro e retorne a média dos números.

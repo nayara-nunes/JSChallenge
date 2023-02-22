@@ -1,0 +1,1 @@
+//19. Filtrar os elementos de um array que atendem a uma condição.

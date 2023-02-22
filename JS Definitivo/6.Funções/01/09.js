@@ -1,0 +1,1 @@
+/*9. Escreva uma função que receba um array como parâmetro e retorne o array ordenado em ordem crescente. */
