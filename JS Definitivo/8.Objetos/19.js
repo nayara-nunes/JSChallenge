@@ -1,0 +1,1 @@
+//19. Remova uma propriedade de um objeto aninhado.

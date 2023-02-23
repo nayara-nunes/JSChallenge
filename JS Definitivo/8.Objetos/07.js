@@ -1,0 +1,1 @@
+//7. Verifique se uma propriedade específica está presente no objeto.

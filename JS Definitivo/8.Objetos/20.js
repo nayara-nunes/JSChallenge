@@ -1,0 +1,1 @@
+//20. Liste todas as propriedades de um objeto aninhado. 

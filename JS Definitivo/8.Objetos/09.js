@@ -1,0 +1,1 @@
+//9. Liste todos os valores das propriedades do objeto.

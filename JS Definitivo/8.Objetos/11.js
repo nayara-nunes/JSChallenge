@@ -1,0 +1,1 @@
+//11. Copie o objeto para um novo objeto.

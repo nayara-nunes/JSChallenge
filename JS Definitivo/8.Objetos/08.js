@@ -1,0 +1,1 @@
+//8. Liste todas as propriedades do objeto.
