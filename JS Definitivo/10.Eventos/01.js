@@ -15,7 +15,7 @@ Crie um evento personalizado em um elemento.
 Adicione um ouvinte de evento a um elemento.
 Remova um ouvinte de evento de um elemento.
 Pare a propagação de um evento.
-Previnir o comportamento padrão de um evento.
+Prevenir o comportamento padrão de um evento.
 Acesse o alvo de um evento.
 Acesse as propriedades de um evento.
 Dispare um evento manualmente.
