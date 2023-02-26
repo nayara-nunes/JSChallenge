@@ -31,8 +31,20 @@ botao.addEventListener("click", function() {
 });
 
 //<li>Remova um evento de um elemento.</li>
+// remove o ouvinte de evento do botão
+btn.removeEventListener("click", minhaFuncao);
+
 //<li>Selecione o elemento pai de um elemento.</li>
-//<li>Selecione um elemento irmão de um elemento.</li>
+// seleciona o elemento filho pelo ID
+var filho = document.getElementById("meuElementoFilho");
+
+// seleciona o elemento pai do elemento filho
+var pai = filho.parentNode;
+
+// faz algo com o elemento pai
+pai.style.backgroundColor = "red";
+
+//<li>Selecione um elemento irmão de  um elemento.</li>
 //<li>Selecione todos os elementos filhos de um elemento.</li>
 //<li>Selecione todos os elementos descendentes de um elemento.</li>
 //<li>Selecione o valor de um input.</li>
