@@ -25,11 +25,11 @@ divExemplo.appendChild(anotacoes);
 let elementClasse = document.getElementById("h4");
 elementClasse.classList.remove("ativo");
 //<li>Adicione um evento a um elemento.</li>
-var botao = document.getElementById("botao");
+/*var botao = document.getElementById("botao");
 botao.addEventListener("click", function() {
   // código a ser executado quando o botão for clicado
 });
-
+*/
 //<li>Remova um evento de um elemento.</li>
 // remove o ouvinte de evento do botão
 btn.removeEventListener("click", minhaFuncao);

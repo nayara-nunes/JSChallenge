@@ -243,10 +243,6 @@ text-indent: 20px;
   display: flex;
   
 }
-.redes-sociais ul li{
- 
-
-}
 .redes-sociais ul li a{
   color: var(--yellow4);
   margin: 5px;
@@ -255,3 +251,27 @@ text-indent: 20px;
 h4{
   font-family: var(--font02);
 }
+.news{
+  font-family: var(--font02);
+  text-align: center;
+  padding: 20px;
+}
+.input{
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid #000;
+  width: 50%;
+}
+.title{
+  font-family: var(--font01);
+}
+.btn{
+  background-color: var(--yellow1);
+  color: var(--black);
+  font-family: var(--font01);
+  padding: 8px 10px;
+  font-size: 1.1rem;
+  border-radius: 5px;
+}
+
+
