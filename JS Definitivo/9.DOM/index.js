@@ -45,9 +45,29 @@ var pai = filho.parentNode;
 pai.style.backgroundColor = "red";
 
 //<li>Selecione um elemento irmão de  um elemento.</li>
+let selected = document.querySelector('.selected');
+let nextSibling = selected.nextElementSibling;
 //<li>Selecione todos os elementos filhos de um elemento.</li>
+
+let myList = document.querySelector('#myList');
+let childElements = myList.children;
+
+
 //<li>Selecione todos os elementos descendentes de um elemento.</li>
+let navBar = document.querySelector('.nav-bar');
+let descendantElements = navBar.querySelectorAll('*');
+
+
 //<li>Selecione o valor de um input.</li>
+let myInput = document.querySelector('#meuCampo');
+let inputVal = myInput.value;
+
 //<li>Altere o valor de um input.</li>
+myInput.value = 'Novo valor do campo';
+
 //<li>Selecione o atributo de um elemento.</li>
+let img = document.querySelector('img');
+let srcAttr = img.getAttribute('src');
+
 //<li>Altere o valor de um atributo de um elemento. </li>
+img.setAttribute('src', 'nova-imagem.jpg');
