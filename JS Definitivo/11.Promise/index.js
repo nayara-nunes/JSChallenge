@@ -18,4 +18,16 @@
 
  });
 
- //
+ //Como usar o método .then() para lidar com o resultado de uma Promise?
+ const minhaPromessa = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve('Olá, mundo!');
+  }, 1000);
+});
+
+//Como usar o método .catch() para lidar com erros em uma Promise?
+minhaPromessa.catch((erro) => {
+  console.error(erro);
+});
+
+//

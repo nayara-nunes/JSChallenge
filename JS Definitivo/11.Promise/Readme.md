@@ -9,10 +9,16 @@
 <li>Como criar uma nova Promise?</li>
 
 <li>Como usar o método .then() para lidar com o resultado de uma Promise?</li>
+<p> 
+   O método .then() é usado para lidar com o resultado de uma Promise. A sintaxe geral é a seguinte:
+   </p>
+   promessa.then(onResolve, onReject);
 
 <li>Como usar o método .catch() para lidar com erros em uma Promise?</li>
+<p> O método .catch() é usado para lidar com erros em uma Promise. A sintaxe geral é a seguinte:</p>
+    promessa.catch(onReject);
 
-Como usar o método .finally() em uma Promise?</li>
+<li>Como usar o método .finally() em uma Promise?</li>
 
 <li>Como encadear várias Promises usando o método .then()?</li>
 
