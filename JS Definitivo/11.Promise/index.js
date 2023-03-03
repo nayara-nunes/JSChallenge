@@ -30,4 +30,20 @@ minhaPromessa.catch((erro) => {
   console.error(erro);
 });
 
-//
+//<li>Como converter uma função que utiliza callbacks para utilizar Promises?</li>
+function funcaoComCallback(parametro, callback) {
+  // Executa uma operação assíncrona que chama o callback com o resultado
+  // ou com um erro, se houver.
+}
+
+function funcaoComPromise(parametro) {
+  return new Promise((resolve, reject) => {
+    funcaoComCallback(parametro, (resultado, erro) => {
+      if (erro) {
+        reject(erro);
+      } else {
+        resolve(resultado);
+      }
+    });
+  });
+}
