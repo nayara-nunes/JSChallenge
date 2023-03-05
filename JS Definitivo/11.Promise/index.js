@@ -15,13 +15,14 @@
 
  minhaPromise.then(error =>{
  }).catch(erro =>{
+  console.log(" Erro numero tal")
 
  });
 
  //Como usar o método .then() para lidar com o resultado de uma Promise?
  const minhaPromessa = new Promise((resolve, reject) => {
   setTimeout(() => {
-    resolve('Olá, mundo!');
+    resolve(' Após 1 s isso aparece');
   }, 1000);
 });
 

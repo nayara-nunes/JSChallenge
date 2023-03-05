@@ -71,3 +71,6 @@ let srcAttr = img.getAttribute('src');
 
 //<li>Altere o valor de um atributo de um elemento. </li>
 img.setAttribute('src', 'nova-imagem.jpg');
+
+
+const navbar = document.querySelector('.navbar')
