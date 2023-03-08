@@ -13,3 +13,7 @@ function ehPrimo(num) {
 
   return true;
 }
+
+
+console.log(ehPrimo(121));
+console.log(ehPrimo(2));
